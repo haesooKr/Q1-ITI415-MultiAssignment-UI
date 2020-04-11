@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SnapDemoScene.unity
     guid: 34e58e2627a6051498e73acebeb3cdc5
+  - enabled: 1
+    path: Assets/Scenes/Cinemachine.unity
+    guid: d535cbc560ddc384e9e5667e0a12bdcf
   m_configObjects: {}
